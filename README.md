@@ -49,6 +49,7 @@ The **Indian Penal Code AI Assistant** is an AI-powered chatbot that enables use
 ---
 
 ## 📂 Project Structure
+```
 Indian_Penal_Code_ChatBot/
 │
 ├── app.py
@@ -57,3 +58,5 @@ Indian_Penal_Code_ChatBot/
 ├── .gitignore
 ├── THE_INDIAN_PENAL_CODE.pdf
 └── ipc_db/
+```
+------
